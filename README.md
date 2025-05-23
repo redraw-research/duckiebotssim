@@ -17,7 +17,7 @@ git clone https://github.com/redraw-research/duckiebotssim.git
 cd duckiebotssim
 ```
 
-2. Clone the holodeck dependency (our custom fork) into an adjacent directory to this one.
+2. Clone the (holodeck)[https://github.com/BYU-PCCL/holodeck] dependency (our custom fork) into an adjacent directory to this one.
 ```bash
 git clone https://github.com/redraw-research/holodeck ../holodeck
 ```
